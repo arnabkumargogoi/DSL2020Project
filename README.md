@@ -8,4 +8,4 @@ Colab Links:
 
 03 DSL Project Analysis.ipynb:  https://colab.research.google.com/github/arnabkumargogoi/DSL2020Project/blob/main/03_DSL_Project_Analysis.ipynb
 
-04 DSL2020Project.ipynb:  https://colab.research.google.com/github/arnabkumargogoi/DSL2020Project/blob/main/04_DSL2020Project.ipynb#scrollTo=UQ67amRYamFu
+04 DSL2020Project.ipynb:  https://colab.research.google.com/github/arnabkumargogoi/DSL2020Project/blob/main/04_DSL2020Project.ipynb
